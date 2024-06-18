@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning React, Node.js and UI Design<br>🎯 Goals: become a front-end developer and run a marathon<br>🎲 Fun fact: I am passionate about technology, music, sport and of course coffee</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning React, Node.js and UI Design<br>🎯 My goals are to become a front-end developer and run a marathon<br>🎲 Fun facts: I am passionate about technology, music, sport and of course coffee</p>
 
 ###
 
