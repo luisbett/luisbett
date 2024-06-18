@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning React, Node.js and UI Design<br>🎯 My goals are to become a front-end developer and run a marathon<br>🎲 Fun facts: I am passionate about technology, music, sport and of course coffee</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning React, Node.js and UI Design<br>🎯 My goals are to work as a front-end developer and run a marathon<br>🎲 Fun facts: I am passionate about technology, music, sport and of course coffee</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Skills</h2>
 
 ###
 
@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -38,7 +40,7 @@
 
 ###
 
-<h2 align="left">Follow me on my social media</h2>
+<h2 align="left">Social Media</h2>
 
 ###
 
