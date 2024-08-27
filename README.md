@@ -1,8 +1,8 @@
-<h1 align="center">Hello!</h1>
+<h1 align="center">Hi there!</h1>
 
 ###
 
-<p align="left">My name is Luis Bett and I'm a Brazilian Software Engineer, living in Ireland.</p>
+<p align="left">My name is Luis Bett and I'm a Brazilian front-end developer, living in Ireland.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning React, Node.js and UI Design<br>🎯 My goals are to work as a front-end developer and run a marathon<br>🎲 Fun facts: I am passionate about technology, music, sport and of course coffee</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning React, Node.js and UI Design<br>🎯 My goals are to work as a front-end developer and run a marathon<br>🎲 Fun facts: I am passionate about technology, music, running and of course coffee</p>
 
 ###
 
