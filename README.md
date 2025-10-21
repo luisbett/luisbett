@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am Luis Bett, a brazilian full-stack software engineer living in Ireland. I am interested in working/contributing in web/mobile projects in general.</p>
+<p align="left">I am Luis Bett, a Brazilian full-stack software engineer living in Ireland. I am interested in working on or contributing to web and mobile projects in general.</p>
 
 👨🏼‍💻 All my projects are available at [https://luisbett.com/projects](https://luisbett.com/projects)
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻 Creating bugs since 2017<br>📚 When I am not on VS Code I am on Figma<br>🕖 When I am not on VS Code and Figma I will probably be:<br> 🏃🏼‍♂️ Running<br>🎧 Listening to music<br>☕️ Drinking coffee</p>
+<p align="left">💻 Creating bugs since 2017<br>📚 When I’m not on VS Code, I’m on Figma<br>🕖 When I’m not on VS Code or Figma, I’m probably:<br> 🏃🏼‍♂️ Running<br>🎧 Listening to music<br>☕️ Drinking coffee</p>
 
 ###
 
