@@ -4,7 +4,7 @@
 
 <p align="left">I am Luis Bett, an Italian/Brazilian full-stack software engineer living in Ireland. I am interested in working on or contributing to web and mobile projects in general.</p>
 
-👨🏼‍💻 All my projects are available at [https://luisbett.com/projects](https://luisbett.com/projects)
+👨🏼‍💻 Check my portfolio at [https://luisbett.com/portfolio](https://luisbett.com/portfolio)
 
 ###
 
